@@ -21,5 +21,4 @@
 .theme-free button{background-color:cadetblue;color: #000;border: none;transition: 2s; }
 .theme-free button:hover{background-color: white;color: #000;border: none;}
 
-
-
+.card {height: 100%;}
